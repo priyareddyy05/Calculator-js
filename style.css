@@ -58,8 +58,8 @@ button{
     border: none;
 }
 .b{
-    color: white;
-    background-color: black;
+    background-color:orange;
+    border: none;
 }
 @media(max-width:576px){
     .cal-container{
