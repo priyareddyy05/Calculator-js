@@ -53,14 +53,7 @@ button{
     background-color:orange;
     border:none;
 }
-.bt{
-    background-color: grey;
-    border: none;
-}
-.b{
-    background-color:orange;
-    border: none;
-}
+
 @media(max-width:576px){
     .cal-container{
         width:auto
